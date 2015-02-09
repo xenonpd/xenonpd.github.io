@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Xeno at Northern Pacific Digital]]></title>
   <link href="http://xenonpd.github.io/atom.xml" rel="self"/>
   <link href="http://xenonpd.github.io/"/>
-  <updated>2015-02-04T20:39:18-08:00</updated>
+  <updated>2015-02-09T13:56:57-08:00</updated>
   <id>http://xenonpd.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Xeno Campanoli]]></name>
+    <email><![CDATA[xeno@northernpacificdigital.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I Am Xeno.]]></title>
+    <link href="http://xenonpd.github.io/blog/2015/02/09/i-am-xeno/"/>
+    <updated>2015-02-09T11:56:49-08:00</updated>
+    <id>http://xenonpd.github.io/blog/2015/02/09/i-am-xeno</id>
+    <content type="html"><![CDATA[<h2>( A Down to Earth Blasphemy )</h2>
+
+<p>I&rsquo;m Xeno Campanoli, and I work at Northern Pacific Digital.  I&rsquo;ve been a programmer since right after I dropped out of graduate school in 1983,
+and with some exceptional breaks (I tried herring fishing in Alaska in 1997, and I was a commercial truck driver from January 2003 to May 2009),
+I have kept to it for most of the last 32 years.  I like it.  On the other hand, sales I have never been into.  I like to just explain what might
+be helpful and let listeners sell themselves.</p>
+
+<p>I tend to have interests which are bent toward open source tools and frameworks, but not to the exclusion of other things if they are better options
+for a given project.  My tendency is to look for new things as an engineer, not as an attractive thing for resale, so I am not always the best for
+helping plan popular consumer projects.  I am pretty darned good at being given a complex project that has a lot of pieces that must work and coming
+up with a reasonably economic and reliable solution from the tools I know.</p>
+
+<p>Recent work includes small wordpress configurations, consulting on Linux systems, and test and deployment activities for firms running large web sites.
+I am a fan of TDD/BDD, but am efficiently flexible at getting a project out with just the stated needs from the client in a neat and concise result.</p>
+]]></content>
+  </entry>
   
 </feed>
